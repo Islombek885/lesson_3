@@ -1,0 +1,1 @@
+/Users/islombek_093/flutter/Flutter/lesson_3/build/app/intermediates/cxx/Debug/202c1d19/obj/x86_64

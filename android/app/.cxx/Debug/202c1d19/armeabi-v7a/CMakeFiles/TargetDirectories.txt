@@ -1,0 +1,2 @@
+/Users/islombek_093/flutter/Flutter/lesson_3/android/app/.cxx/Debug/202c1d19/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/islombek_093/flutter/Flutter/lesson_3/android/app/.cxx/Debug/202c1d19/armeabi-v7a/CMakeFiles/rebuild_cache.dir
